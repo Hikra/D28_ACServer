@@ -63,7 +63,7 @@ Have Fun!
 ## FAQ
 **Q:** I link non funzionano, cosa devo fare?
 
-**A:** Smettila di piangere e scrivi una richiesta nella sezione "Issues" di questo progetto GitHub, i link verranno aggiornati il prima possibile.
+**A:** Smettila di piangere e scrivi una richiesta nella sezione "Issues" di questo progetto GitHub, provvederemo a sistemare il prima possibile.
 
 ##
 **Q:** Il server è stato aggiornato e non posso più giocare, come faccio a capire quali nuovi file sono da scaricare per giocare alla nuova versione, senza ri-scaricare quelli che ho già?
