@@ -59,6 +59,7 @@ Have Fun!
 
 ## Contatti
 ![discord-icon](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png) Discord -> Hikra [Pelli]#9141 https://discordapp.com/users/195474322473615360
+![discord-icon](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png) Discord -> goldmember91#9159 https://discordapp.com/users/181504090306510848
 ## FAQ
 **Q:** I link non funzionano, cosa devo fare?
 
