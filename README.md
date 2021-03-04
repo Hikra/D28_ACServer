@@ -22,6 +22,7 @@ Server AC_D28
 Potete scaricare **Content Manager** dal seguente link -> https://acstuff.ru/app/latest.zip  
 
 **Content Manager** permette di gestire in maniera davvero veloce e semplice i pacchetti che andremo ad installare in seguito.  
+
 Una volta scaricato, basta installarlo e seguire la configurazione proposta dal software.
 
 ### Download Pacchetti
