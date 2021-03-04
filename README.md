@@ -36,7 +36,7 @@ Per installare i pacchetti scaricati, basta fare drag & drop dei file che si vog
 In alto a destra verranno visualizzati i pacchetti caricati, quindi premere su **"Installa"** per completare l'installazione dei pacchetti.
 
 ## Contatti
-Discord -> Hikra [Pelli]#9141 https://discordapp.com/users/195474322473615360
+![discord-icon](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png) Discord -> Hikra [Pelli]#9141 https://discordapp.com/users/195474322473615360
 ## FAQ
 **Q:** I link non funzionano, cosa devo fare?
 
