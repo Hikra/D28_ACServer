@@ -7,6 +7,7 @@
   * [Content Manager](#content-manager)
   * [Download Pacchetti](#download-pacchetti)
   * [Installare Pacchetti](#installare-pacchetti)
+* [Contatti](#contatti)
 * [FAQ](#faq)
 
 ## Info Generali
@@ -34,6 +35,8 @@ Scaricare i seguenti pacchetti essenziali per giocare nel server:
 Per installare i pacchetti scaricati, basta fare drag & drop dei file che si vogliono installare nella finestra di Content Manager.  
 In alto a destra verranno visualizzati i pacchetti caricati, quindi premere su **"Installa"** per completare l'installazione dei pacchetti.
 
+## Contatti
+Discord -> Hikra [Pelli]#9141 https://discordapp.com/users/195474322473615360
 ## FAQ
 **Q:** I link non funzionano, cosa devo fare?
 
