@@ -1,5 +1,5 @@
 # D28 Drivers | Assetto Corsa Server 🏁
-![banner](https://www.drifted.com/wp-content/uploads/2020/12/best-assetto-corsa-drift-car.jpg)
+![banner](https://cdn.discordapp.com/attachments/816602517735211008/816818095090958366/street_drift_vol.i.png)
 ## Indice
 * [Info generali](#info-generali)
 * [Requisiti](#requisiti)
