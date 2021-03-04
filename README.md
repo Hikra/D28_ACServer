@@ -1,7 +1,8 @@
 # D28 Drivers | Assetto Corsa Server 🏁
 ![banner](https://cdn.discordapp.com/attachments/816602517735211008/816818095090958366/street_drift_vol.i.png)
 ## Indice
-* [Info generali](#info-generali)
+* [Info Generali](#info-generali)
+* [Info Server](#info-server)
 * [Requisiti](#requisiti)
 * [Setup](#setup)
   * [Content Manager](#content-manager)
@@ -13,7 +14,11 @@
 * [FAQ](#faq)
 
 ## Info Generali
-In seguito troverai la guida + il materiale che ti servirà per giocare sul server Assetto Corsa dei D28
+In seguito troverai la guida + il materiale che ti servirà per giocare sul server Assetto Corsa dei D28.
+
+## Info Server
+**Nome Server:** D28_Drivers ## Good Guys :: Bad Decisions  
+**ip**: 95.211.222.135:14608
 
 ## Requisiti
 * Assetto Corsa (**edizione base**)
@@ -44,7 +49,7 @@ In alto a destra verranno visualizzati i pacchetti caricati, quindi premere su *
 ## Giocare nel Server
 Adesso siete pronti per giocare con noi!  
 
-Per entrare nel server andare su Content Manager -> Drive (in alto a destra) -> Online (in alto a sinistra) -> usare l'icona della lente di ingrandimento per cercare il server (basta scrivere "D28").  
+Per entrare nel server andare su Content Manager -> Drive (in alto a destra) -> Online (in alto a sinistra) -> usare l'icona della lente di ingrandimento per cercare il server (dati del server [qui](#info-server)) 
 
 Sulla parte destra dell'interfaccia inserire la password.
 
