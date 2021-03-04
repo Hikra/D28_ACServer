@@ -45,6 +45,7 @@ In alto a destra verranno visualizzati i pacchetti caricati, quindi premere su *
 Adesso siete pronti per giocare con noi!  
 
 Per entrare nel server andare su Content Manager -> Drive (in alto a destra) -> Online (in alto a sinistra) -> usare l'icona della lente di ingrandimento per cercare il server (basta scrivere "D28").  
+
 Sulla parte destra dell'interfaccia inserire la password.
 
 Per entrare basta scegliere un'auto e premere sul tasto "Join" di colore verde in basso.  
