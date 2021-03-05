@@ -38,7 +38,7 @@ Per installare lo Shaders Pack basta andare su Content Manager -> Settings (in a
 ### Download Pacchetti
 In seguito potete trovare un elenco dei pacchetti che sono stati utilizzati fino ad ora nel server.  
 
-Per sapere quali pacchetti bisogna scaricare per giocare nella versione attuale, controllare nella sezione **Releases** a destra (o cliccare [qui](https://github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima)
+:warning: **IMPORTANTE**: Per sapere quali pacchetti bisogna scaricare per giocare nella versione attuale, controllare la sezione **Releases** a destra (o cliccare [qui](https://github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima)
 
 #### Tracciati
 | Nome | Link |
