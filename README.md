@@ -38,7 +38,7 @@ Per installare lo Shaders Pack basta andare su Content Manager -> Settings (in a
 ### Download Pacchetti
 In seguito potete trovare un elenco dei pacchetti che sono stati utilizzati fino ad ora nel server.  
 
-Per sapere quali pacchetti bisogna scaricare per giocare nella versione attuale, controllare nella sezione **Releases** a destra (o cliccare [qui](github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima)
+Per sapere quali pacchetti bisogna scaricare per giocare nella versione attuale, controllare nella sezione **Releases** a destra (o cliccare [qui](https://github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima)
 
 #### Tracciati
 | Nome | Link |
@@ -80,4 +80,4 @@ Have Fun!
 ##
 **Q:** Il server è stato aggiornato e non posso più giocare, come faccio a capire quali nuovi file sono da scaricare per giocare alla nuova versione, senza ri-scaricare quelli che ho già?
 
-**A:** Basta andare nella Home di questo progetto e guardare nella sezione **Releases** a destra dell'interfaccia (cliccare [qui](github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima). Cliccando sull'ultima versione si potranno vedere i nuovi pacchetti aggiunti per giocare all'ultima versione del server e quindi, scaricare solo i nuovi pacchetti aggiunti.
+**A:** Basta andare nella Home di questo progetto e guardare nella sezione **Releases** a destra dell'interfaccia (cliccare [qui](https://github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima). Cliccando sull'ultima versione si potranno vedere i nuovi pacchetti aggiunti per giocare all'ultima versione del server e quindi, scaricare solo i nuovi pacchetti aggiunti.
