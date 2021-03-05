@@ -36,11 +36,23 @@ Una volta scaricato, basta installarlo e seguire la configurazione proposta dal 
 Per installare lo Shaders Pack basta andare su Content Manager -> Settings (in alto a destra) -> Custom Shaders Pack -> premere su "Check Updates" per controllare se ci sono aggioramenti e installarli ove disponibili.
 
 ### Download Pacchetti
-Scaricare i seguenti pacchetti essenziali per giocare nel server:
-* Sadamine | Track -> https://tinyurl.com/sadamine
-* Death Wish Garage | Carpack -> https://tinyurl.com/DWGcars
-* INITIAL D | Carpack -> https://tinyurl.com/InitialDCars
-* Tando Buddies | Carpack -> https://tinyurl.com/TandoBuddies
+In seguito potete trovare un elenco dei pacchetti che sono stati utilizzati fino ad ora nel server.  
+
+Per sapere quali pacchetti bisogna scaricare per giocare nella versione attuale, controllare nella sezione **Releases** a destra (o cliccare [qui](github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima)
+
+#### Tracciati
+| Nome | Link |
+| --- | --- |
+| Sadamine | https://tinyurl.com/sadamine |
+| Nagao | https://tinyurl.com/eknagao |
+
+#### Car Packs
+| Nome | Link |
+| --- | --- |
+| Death Wish Garage | https://tinyurl.com/DWGcars |
+| Initial D | https://tinyurl.com/InitialDCars |
+| Tando Buddies | https://tinyurl.com/TandoBuddies |
+| World Drift Tour Street | https://tinyurl.com/WorldDriftTour |
 
 ### Installare Pacchetti
 Per installare i pacchetti scaricati, basta fare drag & drop dei file che si vogliono installare nella finestra di Content Manager.  
@@ -68,4 +80,4 @@ Have Fun!
 ##
 **Q:** Il server è stato aggiornato e non posso più giocare, come faccio a capire quali nuovi file sono da scaricare per giocare alla nuova versione, senza ri-scaricare quelli che ho già?
 
-**A:** Basta andare nella Home di questo progetto e guardare nella sezione "Releases" a destra dell'interfaccia. Cliccando sull'ultima versione si potranno vedere i nuovi pacchetti aggiunti per giocare all'ultima versione del server e quindi, scaricare solo i nuovi pacchetti aggiunti.
+**A:** Basta andare nella Home di questo progetto e guardare nella sezione "Releases" a destra dell'interfaccia (cliccare [qui](github.com/Hikra/D28_ACServer/releases/latest) per andare all'ultima). Cliccando sull'ultima versione si potranno vedere i nuovi pacchetti aggiunti per giocare all'ultima versione del server e quindi, scaricare solo i nuovi pacchetti aggiunti.
