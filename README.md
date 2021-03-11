@@ -46,6 +46,7 @@ In seguito potete trovare un elenco dei pacchetti che sono stati utilizzati fino
 | --- | --- |
 | Sadamine | https://tinyurl.com/sadamine |
 | Nagao | https://tinyurl.com/eknagao |
+| Mega Tamada | https://tinyurl.com/megatamada |
 
 #### Car Packs
 | Nome | Link |
@@ -54,6 +55,7 @@ In seguito potete trovare un elenco dei pacchetti che sono stati utilizzati fino
 | Initial D | https://tinyurl.com/InitialDCars |
 | Tando Buddies | https://tinyurl.com/TandoBuddies |
 | World Drift Tour Street | https://tinyurl.com/WorldDriftTour |
+| Mix Combo #2 | https://tinyurl.com/mixcarcombo2 |
 
 ### Installare Pacchetti
 Per installare i pacchetti scaricati, basta fare drag & drop dei file che si vogliono installare nella finestra di Content Manager.  
