@@ -18,8 +18,8 @@ In seguito troverai la guida + il materiale che ti servirà per giocare sul serv
 
 ## Info Server
 **Nome Server:** D28_Drivers ## Good Guys :: Bad Decisions  
-**ip**: 95.211.222.135:14608  
-**pw**: 19081991
+**ip**: 95.211.222.135:25200 
+**pw**: dima
 
 ## Requisiti
 * Assetto Corsa (**edizione base**)
